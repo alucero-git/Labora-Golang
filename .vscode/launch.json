@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "c:\\Users\\adri_\\Desktop\\Personal\\Cursos\\Labora-Golang\\Seccion-1\\Prácticas de algoritmos avanzados\\ejercicio6.go",
+            "args": [],
+            "name": "debug ejercicio6.go",
+            "type": "go",
+            "mode": "auto"
+        }
+    ]
+}

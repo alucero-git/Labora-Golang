@@ -12,4 +12,5 @@ func main() {
 	fmt.Println(X)
 	X = (X + 4) / 2
 	fmt.Println(X)
+	
 }

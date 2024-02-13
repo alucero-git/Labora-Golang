@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "c:\\Users\\adri_\\Documents\\GitHub\\Labora-Golang\\Seccion-1\\Practicas 1\\Punteros, funciones y operadores\\calculadora.go",
+            "args": [],
+            "name": "debug calculadora.go",
+            "type": "go",
+            "mode": "auto"
+        }
+    ]
+}
